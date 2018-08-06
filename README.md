@@ -1,5 +1,5 @@
 # Safari-Windows
-My first Cocoa proggy on macOS Quite raw but doing was it should.
+My first Cocoa proggy on macOS Quite raw but doing what it should.
 it's an example of <br>
 <strong>programmatically scripting application</strong> and 
 <strong>using NSOutlineView</strong>
