@@ -4,7 +4,7 @@ it's an example of <br>
 <strong>programmatically scripting application</strong> and 
 <strong>using NSOutlineView</strong>
 
-The idea is to find a (hidden somewhere) Safari Window and relevant Tab. I hat this idea a long time ago, due to my huge (40") screen and many spaces. 
+The idea is to find a (hidden somewhere) Safari Window and relevant Tab. I had this idea a long time ago, due to my huge (40") screen and many spaces. 
 The challenges:
 - find them all
 - show in hierearchicalview: Window -> tab
